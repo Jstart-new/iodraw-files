@@ -182,6 +182,9 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1061" value="emq消息列队" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Active_Directory.svg;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#2DC0ED;gradientColor=none;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1125" y="397" width="79" height="79" as="geometry" />
         </mxCell>
+        <mxCell id="aIQlSGSxUdFHoinZMW75-0" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;认证/转发&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;gateway网关" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#7D5270;strokeWidth=2;fillColor=#EDA109;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="604" y="131" width="92" height="230" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
