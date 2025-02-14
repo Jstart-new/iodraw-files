@@ -87,7 +87,7 @@
           <mxGeometry x="625" y="520" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1019" value="前端服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;NodeJS" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#7D5270;strokeWidth=2;fillColor=#7987A3;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="646" y="642.5" width="80" height="178" as="geometry" />
+          <mxGeometry x="606" y="635" width="80" height="178" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1020" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Earth_globe_128x128.png;shadow=0;strokeColor=#000000;strokeWidth=2;fillColor=#7987A3;fontSize=14;fontColor=#FFFFFF;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="619" y="704.5" width="54" height="54" as="geometry" />
