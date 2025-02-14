@@ -161,13 +161,13 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1052" value="停车场系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1128.5" y="141" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1053" value="TASK服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1053" value="海康系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1266" y="141" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1054" value="监控服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1266" y="200.5" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1055" value="认证服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1055" value="人脸系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1128.5" y="200" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1060" value="关系型数据库MySQL" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.weblogos.aws;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#2DC0ED;gradientColor=none;fontSize=15;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
