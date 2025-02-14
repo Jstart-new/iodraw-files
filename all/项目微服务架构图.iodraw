@@ -215,12 +215,6 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1055" value="认证服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1128.5" y="200" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1056" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2DC0ED;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server_stack;glass=0;labelBackgroundColor=none;fontSize=18;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="663" y="986" width="86" height="74" as="geometry" />
-        </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1057" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2DC0ED;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.server_stack;glass=0;labelBackgroundColor=none;fontSize=18;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="917" y="986" width="86" height="74" as="geometry" />
-        </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1058" value="Oracle" style="shape=datastore;whiteSpace=wrap;html=1;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#2DC0ED;gradientColor=none;fontSize=18;fontColor=#FFFFFF;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1130.5" y="986" width="60" height="60" as="geometry" />
         </mxCell>
