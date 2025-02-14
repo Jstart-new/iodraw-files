@@ -188,7 +188,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1060" value="关系型数据库MySQL" style="dashed=0;outlineConnect=0;html=1;align=left;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;shape=mxgraph.weblogos.aws;shadow=0;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#2DC0ED;gradientColor=none;fontSize=15;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1125" y="306.5" width="78" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1061" value="RabbitMQ消息列队集群" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Active_Directory.svg;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#2DC0ED;gradientColor=none;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1061" value="wmq消息列队" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Active_Directory.svg;glass=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#2DC0ED;gradientColor=none;fontColor=#FFFFFF;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1125" y="397" width="79" height="79" as="geometry" />
         </mxCell>
       </root>
