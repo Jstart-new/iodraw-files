@@ -59,9 +59,9 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1005" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#DC8AFF;strokeWidth=2;fillColor=none;fontSize=14;fontColor=#FFFFFF;align=left;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1108" y="282" width="316" height="404" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1006" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=18;fontColor=#FFFFFF;entryX=1;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uy2ln4zJi_271SopDiRo-1008" target="uy2ln4zJi_271SopDiRo-979" edge="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1006" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=18;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uy2ln4zJi_271SopDiRo-1008" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1072" y="818" as="targetPoint" />
+            <mxPoint x="1063" y="812" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1008" value="代码版本库" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#DC8AFF;strokeWidth=2;fillColor=none;fontSize=14;fontColor=#FFFFFF;align=center;dashed=1;verticalAlign=top;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -161,7 +161,7 @@
           <mxGeometry x="730.5" y="119" width="69" height="20" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1048" value="Git" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#2DC0ED;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.azure.git_repository;glass=0;fontSize=14;fontColor=#FFFFFF;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1128.5" y="771" width="71" height="68" as="geometry" />
+          <mxGeometry x="1128.5" y="780.5" width="71" height="68" as="geometry" />
         </mxCell>
         <mxCell id="mEGSYndl6-3te19i6LjX-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uy2ln4zJi_271SopDiRo-1051" target="mEGSYndl6-3te19i6LjX-2">
           <mxGeometry relative="1" as="geometry" />
