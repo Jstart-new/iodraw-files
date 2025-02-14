@@ -68,8 +68,8 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1012" value="&amp;nbsp; 基础服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;fontSize=18;align=left;opacity=40;fontStyle=1;fontColor=#FFFFFF;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1108" y="91" width="283" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1013" value="接入服务&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;认证/限额&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;API网关" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#7D5270;strokeWidth=2;fillColor=#EDA109;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="606" y="121" width="80" height="230" as="geometry" />
+        <mxCell id="uy2ln4zJi_271SopDiRo-1013" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;API网关" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#7D5270;strokeWidth=2;fillColor=#EDA109;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="606" y="121" width="80" height="473" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1015" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#4D4D4D;gradientColor=none;shadow=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="625.5" y="255" width="40" height="40" as="geometry" />
