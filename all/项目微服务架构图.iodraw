@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="uy2ln4zJi_271SopDiRo-979" value="" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#DC8AFF;strokeWidth=2;fillColor=none;fontSize=14;fontColor=#FFFFFF;align=left;dashed=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="565" y="90" width="490" height="788" as="geometry" />
+          <mxGeometry x="565" y="87" width="490" height="788" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-980" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#999999;strokeWidth=2;fillColor=#999999;fontSize=14;fontColor=#FFFFFF;align=center;opacity=20;arcSize=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="707" y="116" width="314" height="482" as="geometry" />
@@ -72,7 +72,7 @@
           <mxGeometry x="606" y="121" width="80" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1014" value="" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/ShieldFirewall.svg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="631.5" y="181" width="29.2" height="40" as="geometry" />
+          <mxGeometry x="630.9" y="174" width="29.2" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1015" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#4D4D4D;gradientColor=none;shadow=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="625.5" y="255" width="40" height="40" as="geometry" />
