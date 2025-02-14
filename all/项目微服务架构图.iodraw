@@ -206,7 +206,7 @@
         <mxCell id="mEGSYndl6-3te19i6LjX-17" value="信发系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1131" y="218" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mEGSYndl6-3te19i6LjX-18" value="人脸系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="mEGSYndl6-3te19i6LjX-18" value="supOS系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1274" y="218" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
