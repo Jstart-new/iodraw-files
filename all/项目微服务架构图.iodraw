@@ -104,7 +104,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1024" value="丰云能量服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="742" y="490" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1025" value="签到服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1025" value="basic" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="874" y="321.5" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1026" value="社群管理服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
