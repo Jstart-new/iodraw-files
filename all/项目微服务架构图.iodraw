@@ -75,10 +75,7 @@
           <mxGeometry x="631.5" y="181" width="29.2" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1015" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#4D4D4D;gradientColor=none;shadow=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="625.5" y="255" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1017" value="" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/ShieldFirewall.svg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="631" y="446" width="29.2" height="40" as="geometry" />
+          <mxGeometry x="620.5" y="255" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1018" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#4D4D4D;gradientColor=none;shadow=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="625" y="520" width="40" height="40" as="geometry" />
