@@ -182,9 +182,6 @@
         <mxCell id="aIQlSGSxUdFHoinZMW75-4" value="visit" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="874" y="545" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mEGSYndl6-3te19i6LjX-2" value="Redis缓存" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Cache_Redis_Product.svg;glass=0;strokeColor=#000000;strokeWidth=1;fillColor=#2E73B8;gradientColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1125" y="587" width="72" height="61" as="geometry" />
-        </mxCell>
         <mxCell id="mEGSYndl6-3te19i6LjX-4" value="Redis缓存" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Cache_Redis_Product.svg;glass=0;strokeColor=#000000;strokeWidth=1;fillColor=#2E73B8;gradientColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1125" y="659" width="72" height="61" as="geometry" />
         </mxCell>
