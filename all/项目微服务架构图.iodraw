@@ -81,7 +81,7 @@
           <mxGeometry x="605.5" y="386" width="80" height="230" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1017" value="" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/ShieldFirewall.svg;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="631" y="446" width="29.2" height="40" as="geometry" />
+          <mxGeometry x="631" y="435" width="29.2" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1018" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#4D4D4D;gradientColor=none;shadow=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="625" y="520" width="40" height="40" as="geometry" />
@@ -92,7 +92,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1020" value="" style="image;html=1;labelBackgroundColor=#ffffff;image=img/lib/clip_art/general/Earth_globe_128x128.png;shadow=0;strokeColor=#000000;strokeWidth=2;fillColor=#7987A3;fontSize=14;fontColor=#FFFFFF;align=left;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="619" y="704.5" width="54" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1021" value="社群服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1021" value="auth" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="742.5" y="323" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1022" value="视频服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
