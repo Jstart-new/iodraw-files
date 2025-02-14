@@ -158,7 +158,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1051" value="Redis缓存" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Cache_Redis_Product.svg;glass=0;strokeColor=#000000;strokeWidth=1;fillColor=#2E73B8;gradientColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1125" y="501" width="72" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1052" value="ti" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1052" value="停车场系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1128.5" y="141" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1053" value="TASK服务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -199,9 +199,6 @@
         </mxCell>
         <mxCell id="mEGSYndl6-3te19i6LjX-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/FTP.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1125" y="657" width="77.5" height="62" as="geometry" />
-        </mxCell>
-        <mxCell id="mEGSYndl6-3te19i6LjX-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1232" y="616" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
