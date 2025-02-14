@@ -200,6 +200,9 @@
         <mxCell id="mEGSYndl6-3te19i6LjX-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/FTP.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1125" y="657" width="75" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mEGSYndl6-3te19i6LjX-16" value="&lt;font color=&quot;#ffffff&quot;&gt;fastDfs文件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1239" y="684" width="71" height="29" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
