@@ -143,7 +143,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1038" value="Nacos配置注册中心" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="742" y="665" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1039" value="Ribbon&lt;br&gt;负载均衡" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1039" value="&lt;div&gt;seata&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="874" y="665" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1040" value="Eureka&lt;br&gt;Client" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
