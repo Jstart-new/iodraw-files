@@ -65,7 +65,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1011" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.998;entryY=0.108;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=18;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="uy2ln4zJi_271SopDiRo-1012" target="uy2ln4zJi_271SopDiRo-979" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1012" value="&amp;nbsp; 基础服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;fontSize=18;align=left;opacity=40;fontStyle=1;fontColor=#FFFFFF;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1012" value="&amp;nbsp; 第三方服务" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#9673a6;strokeWidth=2;fillColor=#e1d5e7;fontSize=18;align=left;opacity=40;fontStyle=1;fontColor=#FFFFFF;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1108" y="91" width="283" height="170" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1013" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;认证/转发&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;网关&lt;br&gt;&lt;div&gt;gateway&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;strokeColor=#7D5270;strokeWidth=2;fillColor=#EDA109;fontSize=14;fontColor=#FFFFFF;align=center;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -147,7 +147,7 @@
           <mxGeometry x="874" y="684" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1040" value="openoffice文件预览" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="874" y="765" width="110" height="40" as="geometry" />
+          <mxGeometry x="874" y="766" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1041" value="xxl-job定时任务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="766" width="110" height="40" as="geometry" />
