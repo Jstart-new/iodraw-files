@@ -45,7 +45,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-995" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=18;fontColor=#FFFFFF;spacing=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="508.51" y="454.97" as="sourcePoint" />
-            <mxPoint x="561" y="453" as="targetPoint" />
+            <mxPoint x="563" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-996" value="负载均衡&lt;br style=&quot;font-size: 14px;&quot;&gt;Nginx" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.android;fillColor=#8CC64F;gradientColor=none;shadow=0;strokeColor=#690069;strokeWidth=2;fontSize=14;fontColor=#FFFFFF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
