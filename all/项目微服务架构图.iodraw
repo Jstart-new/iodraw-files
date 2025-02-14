@@ -162,10 +162,10 @@
           <mxGeometry x="1131" y="116" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1053" value="海康系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1266" y="113" width="110" height="40" as="geometry" />
+          <mxGeometry x="1272" y="116" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1054" value="食堂系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1266" y="184.5" width="110" height="40" as="geometry" />
+          <mxGeometry x="1274" y="167" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1055" value="人脸系统" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=#EFA1FF;strokeWidth=2;fillColor=#DB4DFF;fontSize=18;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1131" y="167" width="110" height="40" as="geometry" />
