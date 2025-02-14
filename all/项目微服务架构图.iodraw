@@ -198,7 +198,10 @@
           <mxGeometry x="1124.9999755859376" y="571.9999877929688" width="69" height="69" as="geometry" />
         </mxCell>
         <mxCell id="mEGSYndl6-3te19i6LjX-13" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/FTP.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1126.5" y="655" width="77.5" height="62" as="geometry" />
+          <mxGeometry x="1125" y="657" width="77.5" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="mEGSYndl6-3te19i6LjX-14" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1232" y="616" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
