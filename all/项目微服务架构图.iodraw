@@ -146,7 +146,7 @@
         <mxCell id="uy2ln4zJi_271SopDiRo-1040" value="openoffice文件预览" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="874" y="766" width="110" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uy2ln4zJi_271SopDiRo-1041" value="xxl-job定时任务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="uy2ln4zJi_271SopDiRo-1041" value="XXL-JOB定时任务" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;strokeColor=none;strokeWidth=2;fillColor=#9999FF;fontSize=14;fontColor=#FFFFFF;align=center;arcSize=7;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="740" y="766" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uy2ln4zJi_271SopDiRo-1046" value="业务服务" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;fontSize=14;fontColor=#FFFFFF;opacity=20;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
