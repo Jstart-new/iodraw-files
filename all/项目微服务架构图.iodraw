@@ -183,7 +183,10 @@
           <mxGeometry x="594.5" y="359" width="92" height="230" as="geometry" />
         </mxCell>
         <mxCell id="aIQlSGSxUdFHoinZMW75-1" value="" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/ShieldFirewall.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="635.5" y="183" width="29.2" height="40" as="geometry" />
+          <mxGeometry x="625.9" y="397" width="29.2" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aIQlSGSxUdFHoinZMW75-2" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#4D4D4D;gradientColor=none;shadow=0;strokeColor=#000000;strokeWidth=2;fontSize=31;fontColor=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="619" y="498" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
