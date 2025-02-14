@@ -194,6 +194,12 @@
         <mxCell id="mEGSYndl6-3te19i6LjX-4" value="Redis缓存" style="aspect=fixed;html=1;perimeter=none;align=left;shadow=0;dashed=0;image;fontSize=15;image=img/lib/mscae/Cache_Redis_Product.svg;glass=0;strokeColor=#000000;strokeWidth=1;fillColor=#2E73B8;gradientColor=none;labelBackgroundColor=none;fontColor=#FFFFFF;verticalAlign=middle;labelPosition=right;verticalLabelPosition=middle;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1272" y="572" width="72" height="61" as="geometry" />
         </mxCell>
+        <mxCell id="mEGSYndl6-3te19i6LjX-7" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;endArrow=block;endFill=1;strokeColor=#FFFFFF;strokeWidth=4;fontSize=18;fontColor=#FFFFFF;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1108" y="814" as="sourcePoint" />
+            <mxPoint x="1055" y="813" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
